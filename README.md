@@ -9,7 +9,9 @@ The added link allows the sharing of the URL to a [Poche](http://http://www.inth
 
 Obviously, you need a valid Yourls installation and a valid Poche installation.
 
-This plugin has been tested on Yourls 1.6
+This plugin has been tested on Yourls:
+* [1.6](https://github.com/YOURLS/YOURLS/releases/tag/1.6)
+* [1.7](https://github.com/YOURLS/YOURLS/releases/tag/1.7)
 
 
 Installation
